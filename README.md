@@ -3,6 +3,8 @@
 A simple and interactive signature application built using HTML, CSS, and JavaScript. This single-page web app allows users to draw digital signatures on a canvas, customize the stroke and background color, change the pen size, clear the canvas, save & download the signature, and even retrieve the saved signature later.
 
 ---
+🌐 **Live Website:** [Click here to try it out](https://ryhthm09.github.io/Signature-App/)
+
 
 ## 🚀 Features
 
@@ -38,11 +40,11 @@ No external libraries or frameworks are used – pure frontend code!
    ```bash
    git clone https://github.com/your-username/signature-app.git
    cd signature-app
-```
+   ```
 2. Open `index.html` in your browser:
    ```bash
    open index.html
-```
+   ```
 ## 📝 How It Works
 
 - Canvas is used to capture user strokes.
