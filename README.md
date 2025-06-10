@@ -29,8 +29,8 @@ No external libraries or frameworks are used – pure frontend code!
 
 ## 📸 Preview
 
-(![App Preview](https://github.com/user-attachments/assets/1995850f-b410-4272-97ac-4d1b3d125e8b)
-)
+![App Preview](https://github.com/user-attachments/assets/1995850f-b410-4272-97ac-4d1b3d125e8b)
+
 
 ---
 
